@@ -17,4 +17,5 @@ return "Hello";
     }
 
 //Test ready for commit
+//Test merge conflict
 }
