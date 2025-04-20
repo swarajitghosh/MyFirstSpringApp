@@ -16,6 +16,5 @@ return "Hello";
         return " Hello " + name;
     }
 
-//Test ready for commit
-    // testing ready for pull request
+
 }
